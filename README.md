@@ -49,7 +49,6 @@ This project is a JavaScript app that utilizes data from an API to render inform
 <br>
 
 ## 🏆 Kanban Template <a name="kanban"></a>
-<br>
 
 This project was developed using a Kanban board for organization and utilization. Access the Kanban board
 [here.]((https://github.com/annaeliana7/Plate-Princess-JavaScript/projects/1))
