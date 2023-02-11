@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
+  <img src="assets-README/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
   <br/>
 💜
@@ -39,19 +39,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Plate-Princess-JavaScript<a name="about-project"></a>
+# 📖 NAME OF PROJECT<a name="about-project"></a>
 
-**Plate-Princess-JavaScript**
-<br>
-
-This project is a JavaScript app that utilizes data from an API to render information on the browser. Users can interact with the app by adding comments or likes to the meal menu. The app is built with advanced JavaScript concepts, including ES6 modules, callbacks, and promises, and is bundled using webpack. Unit testing follows the AAA pattern, and Gitflow is used for version control.
-
-<br>
-
-## 🏆 Kanban Template <a name="kanban"></a>
-
-This project was developed using a Kanban board for organization and utilization. Access the Kanban board
-[here.]((https://github.com/annaeliana7/Plate-Princess-JavaScript/projects/1))
+**Name of Project** is a project ...complete sentence
 
 <br>
 
@@ -61,21 +51,18 @@ This project was developed using a Kanban board for organization and utilization
     Javascript (ES6)
     Webpack
     Linters
-    Kanban Board
-    Visual Studio Code
-    GitHub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Demo Image
 <br>
-<img align="center" src="project_demo.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="assets-README/project_demo.png" alt="logo" width="100%"  height="auto" />
 
   <br/>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Plate-Princess-JavaScript](https://annaeliana7.github.io/Plate-Princess-JavaScript/dist)
+[Name of Project](https://ADD LINK.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,9 +73,9 @@ This project was developed using a Kanban board for organization and utilization
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/Plate-Princess-JavaScript.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
 
-- Go to the repository folder using command prompt cd `Plate-Princess-JavaScript`
+- Go to the repository folder using command prompt cd `NAME OF PROJECT`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -109,9 +96,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/annaeliana7/Plate-Princess-JavaScript.git
+- On the terminal run this command git clone https://ADD LINK.git
 
-- Go to the repository folder using command prompt cd Plate-Princess-JavaScript
+- Go to the repository folder using command prompt cd NAME-OF-FILE
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -143,7 +130,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/annaeliana7/Plate-Princess-JavaScript/issues).
+Feel free to check the [issues page](https://ADD LINK.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,9 +157,12 @@ This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
+
+
 <!-- Author's message -->
+
 <div align="center">
-    <img src="kefi-Unearthed-5.png" alt="logo" width="250"  height="auto" />
+    <img src="assets-README/kefi-Unearthed-5.png"  alt="logo" width="250"  height="auto" />
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
 💜
 <br>
